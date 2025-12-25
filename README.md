@@ -160,30 +160,30 @@ The Parkinson’s Disease Progression Prediction system provides an effective de
 This project demonstrates the powerful role of artificial intelligence in healthcare, particularly in predictive analytics for neurological disorders. It contributes toward improved patient management, early intervention strategies, and data-driven medical decision-making.
 
 ## FUTURE ENHANCEMENTS
-# The Parkinson’s Disease Progression Prediction system can be further enhanced to improve accuracy, usability, and real-world applicability. Some possible future enhancements include:
+ The Parkinson’s Disease Progression Prediction system can be further enhanced to improve accuracy, usability, and real-world applicability. Some possible future enhancements include:
 
 # Integration of Deep Learning Models
 Advanced deep learning architectures such as LSTM and CNN can be incorporated to better capture temporal patterns in longitudinal patient data and improve progression prediction accuracy.
 
-# Real-Time Data Integration
+Real-Time Data Integration
 The system can be extended to accept real-time data from wearable devices and sensors to continuously monitor patient symptoms and update predictions dynamically.
 
-# Multi-Modal Data Analysis
+ Multi-Modal Data Analysis
 Future versions can combine clinical data with voice recordings, gait analysis, and imaging data (MRI, PET scans) for more comprehensive disease assessment.
 
-# Personalized Prediction Models
+Personalized Prediction Models
 Customized machine learning models can be developed for individual patients, enabling personalized treatment planning and disease management.
 
-# Cloud-Based Deployment
+Cloud-Based Deployment
 Deploying the system on cloud platforms will enhance scalability, accessibility, and allow healthcare professionals to access predictions remotely.
 
-# Mobile and Web Application Integration
+Mobile and Web Application Integration
 A user-friendly mobile or web interface can be developed to allow doctors and patients to easily input data and view prediction results.
 
-# Explainable AI (XAI) Integration
+Explainable AI (XAI) Integration
 Incorporating explainable AI techniques will help clinicians understand how predictions are made, increasing trust and transparency in the system.
 
-# Clinical Validation and Expansion
+Clinical Validation and Expansion
 The system can be validated using larger, real-world clinical datasets and extended to predict other neurodegenerative diseases.
 
 ## Articles published / References
